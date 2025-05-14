@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../doanCSIdentityTest"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DoAnCS"
+	}
+}
